@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### 📝 Description:
+
 A app that lets you view, create, and track daily workouts.
 
 ### 🖱️ Demo:
@@ -24,12 +25,12 @@ This site uses HTML, CSS, & Javascript. More technologies to be added...
 ### 🔗 Links:
 
 - [GitHub Repo](https://github.com/kwing25/18-Nosql-Workout-Tracker)
-- [Live Site](#)
-
+- [Live Site](https://kwing25.github.io/18-Nosql-Workout-Tracker/)
 
 ### 🗓️ Status & Updates: ![License: MIT](https://img.shields.io/github/last-commit/kwing25/18-Nosql-Workout-Tracker?style=plastic)
 
 > - Created Repo & Initial Commit - June 21, 2021
+> - Published Files - June 27, 2021
 
 ---
 
